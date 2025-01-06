@@ -3,3 +3,4 @@ npm-debug.log
 **/.git
 last_ip.txt
 .env
+docker-compose.test.yml
