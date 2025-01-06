@@ -21,10 +21,16 @@ NTFY_TOPIC=public-ip-changed
 ### Install / run
 
 Install dependencies
-`pnpm install`
+
+```
+pnpm install
+```
 
 and run it
-`node .`
+
+```
+node .
+```
 
 ### Docker
 
